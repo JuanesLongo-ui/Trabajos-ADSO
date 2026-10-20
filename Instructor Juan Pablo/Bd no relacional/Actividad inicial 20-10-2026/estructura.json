@@ -1,0 +1,238 @@
+[
+
+{
+    "titulo": "Javascript para monos",
+    "autor":{
+        "nombre": "Juan",
+        "nombredos": "Esteban",
+        "apellido": "Longo",
+        "apellidodos": "Ordoñez",
+        "apodo": "Cr7",
+        "FechaNascimento": "2008-08-07",
+        "nacionalidad":"Colombiano"
+    },
+    "FechaPublicacion":{
+        "año":2020,
+        "mes":"Febrero",
+        "dia":"Lunes",
+        "DiaFecha":12
+    },
+    "genero":{
+        "Formato": "Aprendizaje",
+        "tipo":"Programacion",
+        "contenido": "JavaScript",
+        "tema": "Introducción a JavaScript"
+    },
+    "disponibilidad":{
+        "prestado": false,
+        "disponible": true,
+        "mantenimiento": false
+    }
+},
+
+{
+    "titulo": "Python para monos",
+    "autor":{
+        "nombre": "Juan",
+        "nombredos": "José",
+        "apellido": "Longo",
+        "apellidodos": "Ordoñez",
+        "apodo": "Mini Einstein",
+        "FechaNascimento": "2006-08-16",
+        "nacionalidad":"Colombiano"
+    },
+    "FechaPublicacion":{
+        "año":2021,
+        "mes":"Febrero",
+        "dia":"Martes",
+        "DiaFecha":20
+    },
+    "genero":{
+        "formato":"Aprendizaje",
+        "tipo":"Programacion",
+        "contenido":"Pythont",
+        "descripcion":"Introducción a Python"
+    },
+    "disponibilidad":{
+        "prestado": true,
+        "disponible": false,
+        "mantenimiento": false
+    }
+},
+
+{
+    "titulo": "Php para monos",
+    "autor":{
+        "nombre": "Dilan",
+        "nombredos": "Camilo",
+        "apellido": "Ramirez",
+        "apellidodos": "Tenorio",
+        "apodo": "DoCapa",
+        "FechaNascimento": "2009-02-2",
+        "nacionalidad":"Colombiano"
+    },
+    "FechaPublicacion":{
+        "año":2025,
+        "mes":"Marzo",
+        "dia":"Miercoles",
+        "DiaFecha":22
+    },
+    "genero":{
+        "formato": "Aprendizaje",
+        "tipo":"programacion",
+        "contenido": "Php",
+        "descripcion": "Introducción a Php"
+    },
+    "disponibilidad":{
+        "prestado": false,
+        "disponible": false,
+        "mantenimiento": true
+    }
+},
+{
+    "titulo": "C++ para monos",
+    "autor":{
+        "nombre": "Milton",
+        "nombredos": "Antimo",
+        "apellido": "Zemanate",
+        "apellidodos": "Gomez",
+        "apodo": "BigPopa",
+        "FechaNascimento": "2006-02-26",
+        "nacionalidad":"Colombiano"
+    },
+    "FechaPublicacion":{
+        "año":2023,
+        "mes":"Diciembre",
+        "dia":"Miercoles",
+        "DiaFecha":13
+    },
+    "genero":{
+        "formato": "Aprendizaje",
+        "tipo":"programacion",
+        "contenido": "C#",
+        "descripcion": "Introducción a C#"
+    },
+    "disponibilidad":{
+        "prestado": true,
+        "disponible": false,
+        "mantenimiento": false
+    }
+},
+{
+    "titulo": "Java para monos",
+    "autor":{
+        "nombre": "Santiago",
+        "nombredos": "",
+        "apellido": "Valencia",
+        "apellidodos": "",
+        "apodo": "Luis",
+        "FechaNascimento": "1980-02-11",
+        "nacionalidad":"Colombiano"
+    },
+    "FechaPublicacion":{
+        "año":2021,
+        "mes":"Agosto",
+        "dia":"Lunes",
+        "DiaFecha":21
+    },
+    "genero":{
+        "formato": "Aprendizaje",
+        "tipo":"programacion",
+        "contenido": "Java",
+        "descripcion": "Introducción a Java"
+    },
+    "disponibilidad":{
+        "prestado": true,
+        "disponible": false,
+        "mantenimiento": false
+    }
+},
+{
+    "titulo": "MySQL para monos",
+    "autor":{
+        "nombre": "Juan",
+        "nombredos": "Esteban",
+        "apellido": "Bonilla",
+        "apellidodos": "Jimenez",
+        "apodo": "Inge",
+        "FechaNascimento": "2002-02-20",
+        "nacionalidad":"Colombiano"
+    },
+    "FechaPublicacion":{
+        "año":2021,
+        "mes":"Abril",
+        "dia":"Sabado",
+        "DiaFecha":30
+    },
+    "genero":{
+        "formato": "Aprendizaje",
+        "tipo":"Bases de datos",
+        "contenido": "MySQL",
+        "descripcion": "Introducción a MySQL"
+    },
+    "disponibilidad":{
+        "prestado": true,
+        "disponible": false,
+        "mantenimiento": false
+    }
+},
+{
+    "titulo": "MongoDb para monos",
+    "autor":{
+        "nombre": "Nasly",
+        "nombredos": "",
+        "apellido": "Anaya",
+        "apellidodos": "",
+        "apodo": "GoMor",
+        "FechaNascimento": "2009-02-16",
+        "nacionalidad":"Colombiano"
+    },
+    "FechaPublicacion":{
+        "año":2021,
+        "mes":"Mayo",
+        "dia":"Miercoles",
+        "DiaFecha":12
+    },
+    "genero":{
+        "formato": "Aprendizaje",
+        "tipo":"Bases de datos",
+        "contenido": "MongoDb",
+        "descripcion": "Introducción a MongoDb"
+    },
+    "disponibilidad":{
+        "prestado": true,
+        "disponible": false,
+        "mantenimiento": false
+    }
+},
+{
+    "titulo": "PostgreSQL para monos",
+    "autor":{
+        "nombre": "Juan",
+        "nombredos": "Esteban",
+        "apellido": "Laos",
+        "apellidodos": "",
+        "apodo": "Inge2",
+        "FechaNascimento": "2008-09-20",
+        "nacionalidad":"Colombiano"
+    },
+    "FechaPublicacion":{
+        "año":2021,
+        "mes":"Febrero",
+        "dia":"Martes",
+        "DiaFecha":20
+    },
+    "genero":{
+        "formato": "Aprendizaje",
+        "tipo":"Bases de datos",
+        "contenido": "PostgreSQL",
+        "descripcion": "Introducción a PostgreSQL"
+    },
+    "disponibilidad":{
+        "prestado": true,
+        "disponible": false,
+        "mantenimiento": false
+    }
+}
+
+]
