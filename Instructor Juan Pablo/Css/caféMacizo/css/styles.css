@@ -1,0 +1,61 @@
+*, *::before, *::after {
+    box-sizing: border-box; /* padding dentro del ancho */
+    margin: 0;              /* 1 valor: 4 lados */
+    padding: 0;
+}
+
+:root {
+    --primario-900: #372010;
+    --primario-700: #633D21; /* base */
+    --primario-500: #9B633B;
+    --primario-300: #CEA37E;
+    --primario-100: #F2E6D9;
+    --secundario:   #326744;
+    --acento:       #F4AF25;
+    --fondo:        #F9F6F0;
+    --texto:        #292019;
+}
+
+html {
+    font-size: 100%; /* base de los rem (16px) */
+}
+
+body {
+    font-size: 1rem;
+    line-height: 1.6; /* sin unidad: factor */
+}
+
+.sec-0 {
+    background-color: var(--primario-700);
+}
+
+.logo {
+    color: var(--fondo);
+}
+
+.nav {
+    color: var(--fondo);
+}
+
+hr {
+    border: none;             
+    height: 4px;                
+    background-color: var(--acento);  
+}
+
+.sec-1 {
+    background: linear-gradient(150deg,var(--primario-900)5%,var(--secundario ));
+}
+
+.sec-2 {
+    background-color: var(--fondo);
+}
+
+.sec-3 {
+    background-color: var(--primario-100);
+}
+
+footer {
+    background-color: var(--primario-700);
+    color: var(--fondo);
+}
