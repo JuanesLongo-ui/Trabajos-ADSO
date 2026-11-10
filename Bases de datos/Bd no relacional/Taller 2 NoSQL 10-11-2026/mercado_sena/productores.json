@@ -1,0 +1,186 @@
+[
+  {
+    "_id": "PROD-001",
+    "nombre": "Finca La Esperanza",
+    "activo": true,
+    "ubicacion": {
+      "municipio": "Popayán",
+      "departamento": "Cauca"
+    },
+    "contacto": {
+      "telefono": "3110001111",
+      "email": "esperanza@finca.com"
+    },
+    "certificaciones": [
+      {
+        "entidad": "MinAgricultura",
+        "nombre": "Orgánico"
+      },
+      {
+        "entidad": "FairTrade",
+        "nombre": "Comercio Justo"
+      }
+    ]
+  },
+  {
+    "_id": "PROD-002",
+    "nombre": "Agro El Tambo",
+    "activo": true,
+    "ubicacion": {
+      "municipio": "El Tambo",
+      "departamento": "Cauca"
+    },
+    "contacto": {
+      "telefono": "3120002222",
+      "email": "contacto@eltambo.com"
+    },
+    "certificaciones": []
+  },
+  {
+    "_id": "PROD-003",
+    "nombre": "Cultivos Cajibío",
+    "activo": true,
+    "ubicacion": {
+      "municipio": "Cajibío",
+      "departamento": "Cauca"
+    },
+    "contacto": {
+      "telefono": "3130003333",
+      "email": "info@cajibio.com"
+    },
+    "certificaciones": [
+      {
+        "entidad": "GlobalGAP",
+        "nombre": "Buenas Prácticas"
+      }
+    ]
+  },
+  {
+    "_id": "PROD-004",
+    "nombre": "Parcela Timbío",
+    "activo": true,
+    "ubicacion": {
+      "municipio": "Timbío",
+      "departamento": "Cauca"
+    },
+    "contacto": {
+      "telefono": "3140004444",
+      "email": "timbio@parcela.com"
+    },
+    "certificaciones": []
+  },
+  {
+    "_id": "PROD-005",
+    "nombre": "Orgánicos del Cauca",
+    "activo": false,
+    "ubicacion": {
+      "municipio": "Popayán",
+      "departamento": "Cauca"
+    },
+    "contacto": {
+      "telefono": "3150005555",
+      "email": "cauca@organicos.com"
+    },
+    "certificaciones": [
+      {
+        "entidad": "Invima",
+        "nombre": "BPM"
+      }
+    ]
+  },
+  {
+    "_id": "PROD-006",
+    "nombre": "Frutas del Tambo",
+    "activo": true,
+    "ubicacion": {
+      "municipio": "El Tambo",
+      "departamento": "Cauca"
+    },
+    "contacto": {
+      "telefono": "3160006666",
+      "email": "frutas@tambo.com"
+    },
+    "certificaciones": [
+      {
+        "entidad": "BioLatina",
+        "nombre": "Orgánico"
+      }
+    ]
+  },
+  {
+    "_id": "PROD-007",
+    "nombre": "Hortalizas Cajibío",
+    "activo": true,
+    "ubicacion": {
+      "municipio": "Cajibío",
+      "departamento": "Cauca"
+    },
+    "contacto": {
+      "telefono": "3170007777",
+      "email": "hortalizas@cajibio.com"
+    },
+    "certificaciones": [
+      {
+        "entidad": "EcoCert",
+        "nombre": "Ecológico"
+      }
+    ]
+  },
+  {
+    "_id": "PROD-008",
+    "nombre": "Café Timbío",
+    "activo": true,
+    "ubicacion": {
+      "municipio": "Timbío",
+      "departamento": "Cauca"
+    },
+    "contacto": {
+      "telefono": "3180008888",
+      "email": "cafe@timbio.com"
+    },
+    "certificaciones": [
+      {
+        "entidad": "Rainforest",
+        "nombre": "Alliance Certified"
+      }
+    ]
+  },
+  {
+    "_id": "PROD-009",
+    "nombre": "Llácteos Popayán",
+    "activo": true,
+    "ubicacion": {
+      "municipio": "Popayán",
+      "departamento": "Cauca"
+    },
+    "contacto": {
+      "telefono": "3190009999",
+      "email": "lacteos@popayan.com"
+    },
+    "certificaciones": [
+      {
+        "entidad": "Invima",
+        "nombre": "HACCP"
+      }
+    ]
+  },
+  {
+    "_id": "PROD-010",
+    "nombre": "Sembrados del Sur",
+    "activo": true,
+    "ubicacion": {
+      "municipio": "El Tambo",
+      "departamento": "Cauca"
+    },
+    "contacto": {
+      "telefono": "3100000000",
+      "email": "sur@sembrados.com"
+    },
+    "certificaciones": [
+      {
+        "entidad": "BioTropico",
+        "nombre": "Orgánico"
+      }
+    ]
+  }
+]

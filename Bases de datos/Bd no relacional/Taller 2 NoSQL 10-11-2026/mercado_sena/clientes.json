@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "CLI-001",
+    "nombre": "Carlos Mendoza",
+    "tipo": "Persona",
+    "direccion": {
+      "ciudad": "Popayán",
+      "direccion": "Calle 5 # 4-20"
+    },
+    "preferencias": ["organico", "cafe"]
+  },
+  {
+    "_id": "CLI-002",
+    "nombre": "Restaurante El Fuego",
+    "tipo": "Restaurante",
+    "direccion": {
+      "ciudad": "Cali",
+      "direccion": "Avenida 6N # 12-45"
+    },
+    "preferencias": ["frutas", "verduras", "lacteos"]
+  },
+  {
+    "_id": "CLI-003",
+    "nombre": "Tienda La Abundancia",
+    "tipo": "Tienda",
+    "direccion": {
+      "ciudad": "Popayán",
+      "direccion": "Carrera 9 # 2-15"
+    },
+    "preferencias": ["granos", "procesados"]
+  },
+  {
+    "_id": "CLI-004",
+    "nombre": "María Gómez",
+    "tipo": "Persona",
+    "direccion": {
+      "ciudad": "Cali",
+      "direccion": "Calle 9 # 50-20"
+    },
+    "preferencias": ["organico"]
+  },
+  {
+    "_id": "CLI-005",
+    "nombre": "Bistro Popayán",
+    "tipo": "Restaurante",
+    "direccion": {
+      "ciudad": "Popayán",
+      "direccion": "Calle Real # 3-10"
+    },
+    "preferencias": ["gourmet", "cafe"]
+  },
+  {
+    "_id": "CLI-006",
+    "nombre": "Supermercado El Valle",
+    "tipo": "Tienda",
+    "direccion": {
+      "ciudad": "Cali",
+      "direccion": "Calle 15 # 30-10"
+    },
+    "preferencias": ["masivo", "lacteos"]
+  },
+  {
+    "_id": "CLI-007",
+    "nombre": "Salsa & Sabor Resto",
+    "tipo": "Restaurante",
+    "direccion": {
+      "ciudad": "Cali",
+      "direccion": "Boulevard del Río # 2-30"
+    },
+    "preferencias": ["fresco", "vegetales"]
+  },
+  {
+    "_id": "CLI-008",
+    "nombre": "Felipe Ruiz",
+    "tipo": "Persona",
+    "direccion": {
+      "ciudad": "Popayán",
+      "direccion": "Barrio Bolívar Calle 7"
+    },
+    "preferencias": ["frutas"]
+  },
+  {
+    "_id": "CLI-009",
+    "nombre": "Minimarket El Carmen",
+    "tipo": "Tienda",
+    "direccion": {
+      "ciudad": "Popayán",
+      "direccion": "Sector El Recuerdo"
+    },
+    "preferencias": ["abarrotes"]
+  },
+  {
+    "_id": "CLI-010",
+    "nombre": "Ana Lucía Ortiz",
+    "tipo": "Persona",
+    "direccion": {
+      "ciudad": "Cali",
+      "direccion": "San Fernando Calle 3B"
+    },
+    "preferencias": ["organico", "miel"]
+  }
+]

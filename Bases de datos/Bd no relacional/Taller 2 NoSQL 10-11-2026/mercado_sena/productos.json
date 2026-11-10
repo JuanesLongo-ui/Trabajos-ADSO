@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "PRD-001",
+    "nombre": "Café Especial 500g",
+    "categoria": "Café",
+    "precio": {
+      "valor": 25000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 15,
+      "disponible": true
+    },
+    "etiquetas": ["cafe", "gourmet", "especial"],
+    "productor_id": "PROD-008"
+  },
+  {
+    "_id": "PRD-002",
+    "nombre": "Queso Campesino 1kg",
+    "categoria": "Lácteos",
+    "precio": {
+      "valor": 18000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 0,
+      "disponible": false
+    },
+    "etiquetas": ["queso", "fresco", "lacteos"],
+    "productor_id": "PROD-009"
+  },
+  {
+    "_id": "PRD-003",
+    "nombre": "Mora de Castilla 1kg",
+    "categoria": "Frutas",
+    "precio": {
+      "valor": 6000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 40,
+      "disponible": true
+    },
+    "etiquetas": ["fruta", "fresco", "mora"],
+    "productor_id": "PROD-001"
+  },
+  {
+    "_id": "PRD-004",
+    "nombre": "Lechuga Crespa 1u",
+    "categoria": "Verduras",
+    "precio": {
+      "valor": 3000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 0,
+      "disponible": false
+    },
+    "etiquetas": ["verdura", "organico", "hojas"],
+    "productor_id": "PROD-007"
+  },
+  {
+    "_id": "PRD-005",
+    "nombre": "Mermelada Artesanal 300g",
+    "categoria": "Procesados",
+    "precio": {
+      "valor": 12000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 20,
+      "disponible": true
+    },
+    "etiquetas": ["dulce", "artesanal", "mermelada"],
+    "productor_id": "PROD-006"
+  },
+  {
+    "_id": "PRD-006",
+    "nombre": "Aguacate Hass 1kg",
+    "categoria": "Frutas",
+    "precio": {
+      "valor": 9000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 35,
+      "disponible": true
+    },
+    "etiquetas": ["aguacate", "fruta", "hass"],
+    "productor_id": "PROD-002"
+  },
+  {
+    "_id": "PRD-007",
+    "nombre": "Yuca Criolla 1kg",
+    "categoria": "Verduras",
+    "precio": {
+      "valor": 4000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 0,
+      "disponible": false
+    },
+    "etiquetas": ["tuberculo", "criollo", "verdura"],
+    "productor_id": "PROD-003"
+  },
+  {
+    "_id": "PRD-008",
+    "nombre": "Miel Pureza 500ml",
+    "categoria": "Procesados",
+    "precio": {
+      "valor": 22000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 10,
+      "disponible": true
+    },
+    "etiquetas": ["miel", "natural", "abejas"],
+    "productor_id": "PROD-004"
+  },
+  {
+    "_id": "PRD-009",
+    "nombre": "Yogurt Natural 1L",
+    "categoria": "Lácteos",
+    "precio": {
+      "valor": 11000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 18,
+      "disponible": true
+    },
+    "etiquetas": ["yogurt", "lacteos", "natural"],
+    "productor_id": "PROD-005"
+  },
+  {
+    "_id": "PRD-010",
+    "nombre": "Café molido Premium",
+    "categoria": "Café",
+    "precio": {
+      "valor": 60000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 8,
+      "disponible": true
+    },
+    "etiquetas": ["cafe", "premium", "molido"],
+    "productor_id": "PROD-008"
+  },
+
+  {
+    "_id": "PRD-010",
+    "nombre": "Carne de res premium 1kg",
+    "categoria": "Carnes",
+    "precio": {
+      "valor": 60000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 5,
+      "disponible": true
+    },
+    "etiquetas": ["carne", "premium", "res"],
+    "productor_id": "PROD-008"
+  },
+
+  {
+    "_id": "PRD-010",
+    "nombre": "Carne de res premium 1kg",
+    "categoria": "Carnes",
+    "precio": {
+      "valor": -20000,
+      "moneda": "COP"
+    },
+    "inventario": {
+      "stock": 5,
+      "disponible": true
+    },
+    "etiquetas": ["carne", "premium", "res"],
+    "productor_id": "PROD-008"
+  }
+]
